@@ -1,8 +1,9 @@
 # Anime1 Player
 
+Anime1 unofficial desktop app which created by nativefier.
+
 ![demo](http://zuikaku.me/Upload/images/2019033053.png)
 
-Anime1 unofficial desktop app which created by nativefier.
 
 ## Releases
 
