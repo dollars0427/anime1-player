@@ -4,6 +4,9 @@ Anime1 unofficial desktop app which created by nativefier.
 
 ![demo](http://zuikaku.me/Upload/images/2019033053.png)
 
+## Features
+1. Watch Anime1 Video such like native app.
+2. Make video more responsive when playing!
 
 ## Releases
 
